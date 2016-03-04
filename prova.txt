@@ -1,1 +1,2 @@
 sto iniziando ad imparare Git e GitHub e questa è la versione 0
+scritto mentre abbiamo attivato la versione 0.1
